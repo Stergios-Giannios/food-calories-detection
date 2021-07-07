@@ -9,7 +9,7 @@ Authors: Stergios Giannios, Thanasis Tsitos
 Jupyter Notebook Viewer:<br>
 [food_classifier.ipynb](https://nbviewer.jupyter.org/github/Stergios-Giannios/food-calories-detection/blob/main/food_classifier.ipynb)<br>
 [food_regressor.ipynb](https://nbviewer.jupyter.org/github/Stergios-Giannios/food-calories-detection/blob/main/food_regressor.ipynb)<br>
-[inference_example.ipynb](https://nbviewer.jupyter.org/github/Stergios-Giannios/food-calories-detection/blob/main/inference_example.ipynb)
+[inference_example.ipynb](https://nbviewer.jupyter.org/github/Stergios-Giannios/food-calories-detection/blob/main/inference_example.ipynb)<br>
 [yolov5_food_detection.ipynb](https://colab.research.google.com/drive/1Z5694HNwixCSxMbjEZCTGrs2Zs51D_2p?usp=sharing)<br><br>
 
 
